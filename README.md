@@ -1,14 +1,12 @@
 ---
 
-## Privacy Policy
+Privacy Policy
 
-### App Name
+App Name
+PetitGolf
 
-**PetitGolf**
-
-### Developer
-
-**tadayohu**
+Developer
+tadayohu
 
 ---
 
